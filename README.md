@@ -2,6 +2,10 @@
 
 Flocky Bird is an implementation of the classic Flappy Bird game enhanced with a genetic algorithm to autonomously train the game to play itself. The project utilizes a simple fully connected neural network to simulate evolutionary strategies that improve gameplay over generations.
 
+![Gameplay Screenshot][media/game.PNG]
+![Gameplay Screenshot][media/game_1.PNG]
+![Plot][media/plot.PNG]
+
 ## Explanation
 
 ### Game Implementation
